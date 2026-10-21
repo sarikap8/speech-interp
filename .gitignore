@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/
+outputs/
+runs/
+*.log
+
+# DAIC-WOZ outputs stay on the server: logs, plots, executed notebooks
+logs/
+results/
+*.executed.ipynb
